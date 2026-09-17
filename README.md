@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://www.idenfy.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="what-is-the-machine-readable-zone-mrz" />
+ <img width="1659" height="935" alt="image" src="https://github.com/user-attachments/assets/d8a398e8-8ec1-430e-9cc3-fd9614650193" />
+
   </a>
 </p>
 
